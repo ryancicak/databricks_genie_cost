@@ -82,3 +82,4 @@ FROM AttributedCosts
 WHERE genie_total_task_seconds > 0
 ORDER BY date DESC;
 ```
+Disclaimer: For a shared DBSQL warehouse, the usage estimate is an approximation, not exact pricing figures.
